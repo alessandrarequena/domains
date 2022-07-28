@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: compras-publicas
+  description: Tudo sobre compras públicas
+spec:
+  owner: seint
